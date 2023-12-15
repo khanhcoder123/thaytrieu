@@ -28,6 +28,7 @@
                 <th>DESCRIPTION</th>
                 <th>VIDEOS</th>
                 <th>ATTACH FILE</th>
+                <th>DOCUMENT FILE</th>
                 <th>STATUS</th>
                 <th>CREATED AT</th>
                 <th>UPDATED AT</th>
@@ -46,7 +47,8 @@
                     <td>
                         @if (!string.IsNullOrEmpty(item.videos))
                         {
-                            <img class="img-fluid" src="/uploads/images/@item.videos" />
+                            <video class="img-fluid" controls><source type="video/mp4"src="/uploads/videos/@item.videos"></video>
+                            
                         }
                     </td>
                     
@@ -54,7 +56,14 @@
                     <td>
                         @if (!string.IsNullOrEmpty(item.attach_file))
                         {
-                            <img class="img-fluid" src="/uploads/images/@item.attach_file" />
+                            <p>Attachment: <a href="/uploads/attachfiles/@item.attach_file" download>Download</a></p>
+                        }
+                    </td>
+
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.documents))
+                        {
+                            <p>Document: <a href="/uploads/documents/@item.documents" download>Download</a></p>
                         }
                     </td>
                     <td>@item.status</td>
