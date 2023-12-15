@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Tranning.Models;
 using Tranning.Queries;
 
@@ -26,14 +27,30 @@ namespace Tranning.Controllers
             // luu thong tin cua nguoi dung vao session
             if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionUserID")))
             {
-                HttpContext.Session.SetString("SessionUserID",model.UserID);
+                HttpContext.Session.SetString("SessionUserID", model.UserID);
                 HttpContext.Session.SetString("SessionRoleID", model.RoleID);
                 HttpContext.Session.SetString("SessionUsername", model.Username);
                 HttpContext.Session.SetString("SessionEmail", model.EmailUser);
 
             }
             // cho chuyen vao trang home
-            return RedirectToAction(nameof(HomeController.Index), "Home");
+            if (model.RoleID == "1")
+            {
+                return RedirectToAction(nameof(HomeController.AdminIndex), "Home");
+            }
+
+            else if (model.RoleID == "2")
+            {
+                return RedirectToAction(nameof(HomeController.TrainingStaffIndex), "Home");
+            }
+
+            else if (model.RoleID == "3")
+            {
+                return RedirectToAction(nameof(HomeController.TrainerIndex), "Home");
+            }
+
+            return RedirectToAction(nameof(HomeController.DefaultAction), "Home");
+
         }
 
         [HttpPost]

@@ -7,16 +7,16 @@
 @{
     ViewData["Title"] = "Categories page";
     // co the code nhu trong controller
-    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    Layout = "~/Views/Shared/_TrainingStaffLayout.cshtml";
 
     bool statusAdd = Convert.ToBoolean(TempData["saveStatus"]);
     bool statusUpdate = Convert.ToBoolean(TempData["UpdateStatus"]);
 }
 <div class="row">
     <div class="col-sm-12 col-md-12">
-        <h3 class="display-6">
+        <h4 class="display-6">
             List Categories
-        </h3>
+        </h4>
         <a class="btn btn-primary btn-sm" href="@Url.Action("Add","Category")"> Add Category </a>
 
         <form asp-action="Index" method="get">
@@ -74,7 +74,7 @@
                         <td>@item.id</td>
                         <td>@item.name</td>  
                         <td>
-                            <img class="img-fluid" height="30%" width="30%" src="/Uploads/images/@item.icon" />
+                            <img class="img-fluid" src="/Uploads/images/@item.icon" />
                         </td>
                         <td>@item.description</td>
 

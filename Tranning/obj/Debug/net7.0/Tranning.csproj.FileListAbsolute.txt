@@ -73,78 +73,327 @@ E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.
 E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
 E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\appsettings.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Tranning.exe
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Tranning.deps.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Tranning.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Tranning.pdb
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Humanizer.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\refint\Tranning.dll
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.pdb
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
-C:\Users\khanh\Downloads\ASP-MVC-NET7-main (1)\ASP-MVC-NET7-main\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\appsettings.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\appsettings.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.exe
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.deps.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.pdb
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Humanizer.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.pdb
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+C:\Users\khanh\Downloads\AD_ASM-main\Tranning\obj\Debug\net7.0\ref\Tranning.dll

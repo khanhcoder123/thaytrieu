@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Tranning.Models.TrainerTopicDetail
+
+@{
+    ViewData["Title"] = "Assign New Trainer To Topic";
+    Layout = "~/Views/Shared/_TrainingStaffLayout.cshtml";
+}
+<div class="row vh-100">
+    <div class="col-sm-12 col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h5> Assign New Trainer To Topic</h5>
+            </div>
+            <div class="card-body">
+                <form enctype="multipart/form-data" asp-action="Add">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6">
+
+                            <div class="form-group">
+                                <label asp-for="topic_id">Topic</label>
+                                <select asp-for="topic_id" class="form-control" asp-items="@(new SelectList(ViewBag.Stores, "Value", "Text"))">
+                                </select>
+                                <span class="text-danger" asp-validation-for="topic_id"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6">
+                            <div class="form-group">
+                                <label asp-for="trainer_id">Trainer</label>
+                                <select asp-for="trainer_id" class="form-control" asp-items="@(new SelectList(ViewBag.Stores1, "Value", "Text"))">
+                                </select>
+                                <span class="text-danger" asp-validation-for="trainer_id"></span>
+                            </div>
+                        </div>
+
+                        <div class="sm-12 col-md-6">
+                            <button class="btn btn-primary my-3" type="submit"> Save </button>
+                            <a class="btn btn-info ms-3 mb-0" href="@Url.Action("Index","TrainerTopic")">Back to lists</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

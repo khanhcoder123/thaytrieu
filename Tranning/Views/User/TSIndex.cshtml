@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Training Staff page";
+    // co the code nhu trong controller
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    bool statusAdd = Convert.ToBoolean(TempData["SaveStatus"]);
+    bool statusUpdate = Convert.ToBoolean(TempData["UpdateStatus"]);
+}
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h3 class="display-6">
+            List Training Staff
+        </h3>
+        <a class="btn btn-primary btn-sm" href="@Url.Action("TSAdd","User")"> Add Users </a>
+        <form asp-action="TSIndex" method="get">
+            <div class="form-actions no-color">
+                <p class="mb-0">
+                    Find by name : <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                    <button type="submit" class="btn btn-primary btn-sm mb-0">Search</button>
+                    <a asp-action="Index">Back to full list</a>
+                </p>
+            </div>
+        </form>
+        @if (TempData["UpdateStatus"] != null)
+        {
+            if (statusUpdate)
+            {
+                <div class="text-success my-2">Update successfully</div>
+            }
+            else
+            {
+                <div class="text-danger my-2">Update Failure</div>
+            }
+        }
+
+        @if (TempData["saveStatus"] != null)
+        {
+            if ((bool)TempData["saveStatus"])
+            {
+                <div class="text-success my-2">Add successfully</div>
+            }
+            else
+            {
+                <div class="text-danger my-2">Add Failure</div>
+            }
+        }
+
+        <table class="table">
+            <thead class="text-center">
+                <tr>
+                    <th>ID</th>
+                    <th>EXTRA CODE</th>
+                    <th>USERNAME</th>
+                    <th>FULL NAME</th>
+                    <th>EMAIL</th>
+                    <th>PHONE</th>
+                    <th>GENDER</th>
+                    <th>STATUS</th>
+                    <th>CREATED AT</th>
+                    <th>UPDATED AT</th>
+                    <th colspan="2" width="5%">ACTION</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.UserDetailLists)
+                {
+                    <tr>
+                        <td>@item.id</td>
+                        <td>@item.extra_code</td>
+                        <td>@item.username</td>
+                        <td>@item.full_name</td>
+                        <td>@item.email</td>
+                        <td>@item.phone</td>
+                        <td>@item.gender</td>
+                        <td>@item.status</td>
+                        <td>@item.created_at</td>
+                        <td>@item.updated_at</td>
+                        <td>
+                            <a class="btn btn-info btn-sm" href="@Url.Action("TSUpdate","User", new {id = @item.id})">Edit</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-danger btn-sm" href="@Url.Action("TSDelete","User", new {id = @item.id})">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

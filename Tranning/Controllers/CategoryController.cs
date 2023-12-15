@@ -16,13 +16,7 @@ namespace Tranning.Controllers
 
         [HttpGet]
         public IActionResult Index(string SearchString)
-        {
-            
-            //check dang nhap
-            //if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionUsername")))
-            //{
-            //    return RedirectToAction(nameof(LoginController.Index), "Login");
-            //}
+        {    
 
             CategoryModel categoryModel = new CategoryModel();
             categoryModel.CategoryDetailLists = new List<CategoryDetail>();
@@ -33,7 +27,7 @@ namespace Tranning.Controllers
             data = data.Where(m => m.deleted_at == null);
             if (!string.IsNullOrEmpty(SearchString))
             {
-                data = data.Where(m => m.name.Contains(SearchString));
+                data = data.Where(m => m.name.Contains(SearchString) || m.description.Contains(SearchString));
             }
             data.ToList();
 
@@ -87,7 +81,7 @@ namespace Tranning.Controllers
                     _dbContext.Categories.Add(categoryData);
                     _dbContext.SaveChanges(true);
                     TempData["saveStatus"] = true;
-                } 
+                }
                 catch
                 {
                     TempData["saveStatus"] = false;
@@ -133,6 +127,7 @@ namespace Tranning.Controllers
                     data.name = category.name;
                     data.description = category.description;
                     data.status = category.status;
+                    data.updated_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
                     if (!string.IsNullOrEmpty(uniqueIconAvatar))
                     {
                         data.icon = uniqueIconAvatar;
@@ -147,7 +142,7 @@ namespace Tranning.Controllers
             }
             catch (Exception ex)
             {
-                 TempData["UpdateStatus"] = false;
+                TempData["UpdateStatus"] = false;
             }
             return RedirectToAction(nameof(CategoryController.Index), "Category");
         }
@@ -194,11 +189,45 @@ namespace Tranning.Controllers
                 // lay lai ten anh de luu database sau nay
                 uniqueFileName = fileName;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 uniqueFileName = ex.Message.ToString();
             }
             return uniqueFileName;
+        }
+
+        [HttpGet]
+        public IActionResult TrainerIndex(string SearchString)
+        {
+
+            CategoryModel categoryModel = new CategoryModel();
+            categoryModel.CategoryDetailLists = new List<CategoryDetail>();
+
+            var data = from m in _dbContext.Categories
+                       select m;
+
+            data = data.Where(m => m.deleted_at == null);
+            if (!string.IsNullOrEmpty(SearchString))
+            {
+                data = data.Where(m => m.name.Contains(SearchString) || m.description.Contains(SearchString));
+            }
+            data.ToList();
+
+            foreach (var item in data)
+            {
+                categoryModel.CategoryDetailLists.Add(new CategoryDetail
+                {
+                    id = item.id,
+                    name = item.name,
+                    description = item.description,
+                    icon = item.icon,
+                    status = item.status,
+                    created_at = item.created_at,
+                    updated_at = item.updated_at
+                });
+            }
+            ViewData["CurrentFilter"] = SearchString;
+            return View(categoryModel);
         }
     }
 }

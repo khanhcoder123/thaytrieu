@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Assigned Trainee Course page";
+    // co the code nhu trong controller
+    Layout = "~/Views/Shared/_TrainingStaffLayout.cshtml";
+    bool statusAdd = Convert.ToBoolean(TempData["SaveStatus"]);
+    bool statusUpdate = Convert.ToBoolean(TempData["UpdateStatus"]);
+}
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h3 class="display-6">
+            List assigned Trainee to Course
+        </h3>
+        <a class="btn btn-primary btn-sm" href="@Url.Action("Add","TraineeCourse")"> Assign New Trainee To Course </a>
+        <form asp-action="Index" method="get">
+            <div class="form-actions no-color">
+                <p class="mb-0">
+                    Find by name : <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                    <button type="submit" class="btn btn-primary btn-sm mb-0">Search</button>
+                    <a asp-action="Index">Back to full list</a>
+                </p>
+            </div>
+        </form>
+        @if (TempData["UpdateStatus"] != null)
+        {
+            if (statusUpdate)
+            {
+                <div class="text-success my-2">Update successfully</div>
+            }
+            else
+            {
+                <div class="text-danger my-2">Update Failure</div>
+            }
+        }
+
+        @if (TempData["saveStatus"] != null)
+        {
+            if ((bool)TempData["saveStatus"])
+            {
+                <div class="text-success my-2">Add successfully</div>
+            }
+            else
+            {
+                <div class="text-danger my-2">Add Failure</div>
+            }
+        }
+
+        <table class="table">
+            <thead class="text-center">
+                <tr>
+                    <th>COURSE NAME</th>
+                    <th>TRAINEE NAME</th>        
+                    <th>CREATED AT</th>
+                    <th>UPDATED AT</th>
+                    <th>ACTION</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.TraineeCourseDetailLists)
+                {
+                    <tr>
+                        <td>@item.course_id</td>
+                        <td>@item.trainee_id</td>                        
+                        <td>@item.created_at</td>
+                        <td>@item.updated_at</td>
+                        <td>
+                            <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "TraineeCourseController", new { trainee_id = @item.trainee_id, course_id = @item.course_id })">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

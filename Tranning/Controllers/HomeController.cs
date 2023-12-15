@@ -14,13 +14,37 @@ namespace Tranning.Controllers
         }
 
 
-        public IActionResult Index()
+        public IActionResult AdminIndex()
         {
             if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionUsername")))
             {
                 return RedirectToAction(nameof(LoginController.Index), "Login");
             }
             return View();
+        }
+
+        public IActionResult TrainingStaffIndex()
+        {
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionUsername")))
+            {
+                return RedirectToAction(nameof(LoginController.Index), "Login");
+            }
+            return View();
+        }
+
+        public IActionResult TrainerIndex()
+        {
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionUsername")))
+            {
+                return RedirectToAction(nameof(LoginController.Index), "Login");
+            }
+            return View();
+        }
+
+        public IActionResult DefaultAction()
+        {
+            LoginModel model = new LoginModel();
+            return View(model);
         }
 
         public IActionResult Privacy()

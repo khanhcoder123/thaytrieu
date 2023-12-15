@@ -1,0 +1,80 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Tranning.Models.UserDetail
+
+@{
+    ViewData["Title"] = "Add Trainee";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="row vh-100">
+    <div class="col-sm-12 col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h5> Add New Trainee</h5>
+            </div>
+            <div class="card-body">
+                <form enctype="multipart/form-data" asp-action="TraineeAdd">
+
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6">
+                            <div class="form-group">
+                                <label asp-for="username">Username</label>
+                                <input asp-for="username" class="form-control" />
+                                <input asp-for="role_id" type="hidden" value="4" class="form-control" />
+                                <span class="text-danger" asp-validation-for="username"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="password">Password</label>
+                                <input asp-for="password" type="password" class="form-control" />
+                                <span class="text-danger" asp-validation-for="password"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="extra_code">Extra Code</label>
+                                <input asp-for="extra_code" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="full_name">Full Name</label>
+                                <input asp-for="full_name" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="email">Email</label>
+                                <input asp-for="email" class="form-control" rows="5" />
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6">
+
+                            <div class="form-group">
+                                <label asp-for="phone">Phone</label>
+                                <input asp-for="phone" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="status" class="control-label"></label>
+                                <select class="form-control" asp-for="status">
+                                    <option value="Active">Active</option>
+                                    <option value="Deactive">Deactive</option>
+                                </select>
+                                <span asp-validation-for="status" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="gender" class="control-label"></label>
+                                <select class="form-control" asp-for="gender">
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="sm-12 col-md-6">
+                            <button class="btn btn-primary my-3" type="submit"> Save </button>
+                            <a class="btn btn-info ms-3 mb-0" href="@Url.Action("TraineeIndex","User")">Back to lists</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

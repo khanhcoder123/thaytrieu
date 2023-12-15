@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Tranning.Models.TraineeCourseDetail
+
+@{
+    ViewData["Title"] = "Assign New Trainee To Course";
+    Layout = "~/Views/Shared/_TrainingStaffLayout.cshtml";
+}
+<div class="row vh-100">
+    <div class="col-sm-12 col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h5> Assign New Trainee To Course</h5>
+            </div>
+            <div class="card-body">
+                <form enctype="multipart/form-data" asp-action="Add">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6">
+                            
+                            <div class="form-group">
+                                <label asp-for="course_id">Course</label>
+                                <select asp-for="course_id" class="form-control" asp-items="@(new SelectList(ViewBag.Stores, "Value", "Text"))">
+                                </select>
+                                <span class="text-danger" asp-validation-for="course_id"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6">
+                            <div class="form-group">
+                                <label asp-for="trainee_id">Trainee</label>
+                                <select asp-for="trainee_id" class="form-control" asp-items="@(new SelectList(ViewBag.Stores1, "Value", "Text"))">
+                                </select>
+                                <span class="text-danger" asp-validation-for="trainee_id"></span>
+                            </div>
+                        </div>
+                        
+                        <div class="sm-12 col-md-6">
+                            <button class="btn btn-primary my-3" type="submit"> Save </button>
+                            <a class="btn btn-info ms-3 mb-0" href="@Url.Action("Index","TraineeCourse")">Back to lists</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
