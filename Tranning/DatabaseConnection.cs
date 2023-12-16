@@ -8,7 +8,7 @@ namespace Tranning
 
         public static SqlConnection GetSqlConnection()
         {
-            string connectionString = "Server=DESKTOP-7ND6BBP;Database=ASMTraining;Trusted_Connection=True;TrustServerCertificate=True";
+            string connectionString = "Data Source=DESKTOP-7ND6BBP;Initial Catalog=ASMTraining;Integrated Security=True;TrustServerCertificate=True";
             SqlConnection connection = new SqlConnection(connectionString);
             return connection;
         }

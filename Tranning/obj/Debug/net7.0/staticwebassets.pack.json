@@ -1,1655 +1,1655 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tranning.bundle.scp.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tranning.bundle.scp.css",
       "PackagePath": "staticwebassets\\Tranning.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\nucleo-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\nucleo-svg.css",
       "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
       "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css.map",
       "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\apple-icon.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\apple-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\bg1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\bg1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\bruce-mars.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\down-arrow-dark.svg",
       "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\down-arrow-white.svg",
       "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\down-arrow.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\down-arrow.svg",
       "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\home-decor-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\home-decor-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\home-decor-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-dark.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-dark.png",
       "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-dark.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
       "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\ivana-square.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\ivancik.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\ivancik.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logo-ct-dark.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logo-ct.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logo-ct.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logos\\mastercard.png",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logos\\visa.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\logos\\visa.png",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\marie.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\marie.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-4.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\angular.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\dribbble.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\dropbox.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\mastercard.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\paypal.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\react.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\sketch.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\slack.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\slack.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\tim.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\tim.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\unass.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\visa.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\visa.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\theme\\vue.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\img\\vr-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\core\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js",
       "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js.map",
       "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_avatars.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropup.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_header.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_popovers.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_rtl.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tilt.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_timeline.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_typography.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\theme.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\theme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\theme.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\0e34250c-067a-4aa8-bb40-77605eccbc74-unikey46RC1-230912-win64.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\0e34250c-067a-4aa8-bb40-77605eccbc74-unikey46RC1-230912-win64.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\0e34250c-067a-4aa8-bb40-77605eccbc74-unikey46RC1-230912-win64.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\37b77e5d-51cf-4882-a988-1fe9a21bc3fc-EVKey.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\37b77e5d-51cf-4882-a988-1fe9a21bc3fc-EVKey.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\37b77e5d-51cf-4882-a988-1fe9a21bc3fc-EVKey.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\42d8064e-b6c0-46dc-b4f3-8acba93c7dcb-EVKey.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\42d8064e-b6c0-46dc-b4f3-8acba93c7dcb-EVKey.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\42d8064e-b6c0-46dc-b4f3-8acba93c7dcb-EVKey.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\b09257b3-c728-40a7-8a0e-e56892ce9447-EVKey.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\b09257b3-c728-40a7-8a0e-e56892ce9447-EVKey.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\b09257b3-c728-40a7-8a0e-e56892ce9447-EVKey.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\ccd6a765-f1df-4c88-a5ad-697e09c07222-unikey46RC1-230912-win64.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\ccd6a765-f1df-4c88-a5ad-697e09c07222-unikey46RC1-230912-win64.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\ccd6a765-f1df-4c88-a5ad-697e09c07222-unikey46RC1-230912-win64.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\d078342a-dc6c-4aec-a013-c36ea4c3424c-EVKey.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\d078342a-dc6c-4aec-a013-c36ea4c3424c-EVKey.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\d078342a-dc6c-4aec-a013-c36ea4c3424c-EVKey.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\f5139a45-cb29-4f68-9662-5c78986c416d-061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\attachfiles\\f5139a45-cb29-4f68-9662-5c78986c416d-061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip",
       "PackagePath": "staticwebassets\\uploads\\attachfiles\\f5139a45-cb29-4f68-9662-5c78986c416d-061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\documents\\1c1157a8-bac2-46da-96b1-a297fd376804-Requirements.pdf",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\documents\\1c1157a8-bac2-46da-96b1-a297fd376804-Requirements.pdf",
       "PackagePath": "staticwebassets\\uploads\\documents\\1c1157a8-bac2-46da-96b1-a297fd376804-Requirements.pdf"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\documents\\2d7763ee-8fc1-4791-a778-5b54eaa4cabf-Requirements.pdf",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\documents\\2d7763ee-8fc1-4791-a778-5b54eaa4cabf-Requirements.pdf",
       "PackagePath": "staticwebassets\\uploads\\documents\\2d7763ee-8fc1-4791-a778-5b54eaa4cabf-Requirements.pdf"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\documents\\a0c96f26-43ec-48db-8c91-da31e8c6e659-Unit 30 - Assignment brief 2 (2).pdf",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\documents\\a0c96f26-43ec-48db-8c91-da31e8c6e659-Unit 30 - Assignment brief 2 (2).pdf",
       "PackagePath": "staticwebassets\\uploads\\documents\\a0c96f26-43ec-48db-8c91-da31e8c6e659-Unit 30 - Assignment brief 2 (2).pdf"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\0158e1ff-d683-4253-ae23-dd6cd7cd0c9e-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\0158e1ff-d683-4253-ae23-dd6cd7cd0c9e-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\0158e1ff-d683-4253-ae23-dd6cd7cd0c9e-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\0b1006c8-9135-4ed1-afcc-a89e13c90832-1620_1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\0b1006c8-9135-4ed1-afcc-a89e13c90832-1620_1.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\0b1006c8-9135-4ed1-afcc-a89e13c90832-1620_1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\0b76bd27-0fc9-4cee-962d-6454d19253cf-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\0b76bd27-0fc9-4cee-962d-6454d19253cf-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\0b76bd27-0fc9-4cee-962d-6454d19253cf-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\146611e1-0331-456a-97ca-a76c0d38a081-8c56de959cd76b8932c6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\146611e1-0331-456a-97ca-a76c0d38a081-8c56de959cd76b8932c6.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\146611e1-0331-456a-97ca-a76c0d38a081-8c56de959cd76b8932c6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\162f89c3-1457-4009-a031-3442e286deed-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\162f89c3-1457-4009-a031-3442e286deed-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\162f89c3-1457-4009-a031-3442e286deed-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\1b7a44fb-bba3-4136-80bf-63bdbc000b02-91073226_2826935270767275_1885454002577997824_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\1b7a44fb-bba3-4136-80bf-63bdbc000b02-91073226_2826935270767275_1885454002577997824_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\1b7a44fb-bba3-4136-80bf-63bdbc000b02-91073226_2826935270767275_1885454002577997824_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\1dcc354a-14ad-4a17-b0b6-5363c7232b69-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\1dcc354a-14ad-4a17-b0b6-5363c7232b69-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\1dcc354a-14ad-4a17-b0b6-5363c7232b69-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\1dd84315-955b-4755-bb1c-7d7631e44a50-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\1dd84315-955b-4755-bb1c-7d7631e44a50-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\1dd84315-955b-4755-bb1c-7d7631e44a50-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\215f73a2-983f-45fc-ab80-f0697d6da983-8c56de959cd76b8932c6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\215f73a2-983f-45fc-ab80-f0697d6da983-8c56de959cd76b8932c6.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\215f73a2-983f-45fc-ab80-f0697d6da983-8c56de959cd76b8932c6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\22a0d204-ce95-44eb-ac41-6cfdcb429ed9-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\22a0d204-ce95-44eb-ac41-6cfdcb429ed9-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\22a0d204-ce95-44eb-ac41-6cfdcb429ed9-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\250fd270-54a8-412a-bb91-8c9b50432bda-Screenshot 2023-08-31 160759.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\250fd270-54a8-412a-bb91-8c9b50432bda-Screenshot 2023-08-31 160759.png",
       "PackagePath": "staticwebassets\\uploads\\images\\250fd270-54a8-412a-bb91-8c9b50432bda-Screenshot 2023-08-31 160759.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\2625dd78-95eb-4d1b-a1b7-7573b8601cb6-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\2625dd78-95eb-4d1b-a1b7-7573b8601cb6-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\2625dd78-95eb-4d1b-a1b7-7573b8601cb6-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\2a91a9c4-63c9-491f-bbc9-d7abdcec8bbc-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\2a91a9c4-63c9-491f-bbc9-d7abdcec8bbc-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\2a91a9c4-63c9-491f-bbc9-d7abdcec8bbc-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\3002c789-1baa-46a4-bee6-e49ab92cb390-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\3002c789-1baa-46a4-bee6-e49ab92cb390-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\3002c789-1baa-46a4-bee6-e49ab92cb390-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\32ef2a1f-4131-4b13-907b-9228c52bbb8a-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\32ef2a1f-4131-4b13-907b-9228c52bbb8a-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\32ef2a1f-4131-4b13-907b-9228c52bbb8a-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\344b6262-72d3-45b3-b04b-6c18154fd819-8c56de959cd76b8932c6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\344b6262-72d3-45b3-b04b-6c18154fd819-8c56de959cd76b8932c6.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\344b6262-72d3-45b3-b04b-6c18154fd819-8c56de959cd76b8932c6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\3a6dd03e-13bd-4cd4-838e-ce65f0f89f3b-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\3a6dd03e-13bd-4cd4-838e-ce65f0f89f3b-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\3a6dd03e-13bd-4cd4-838e-ce65f0f89f3b-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\3b679899-3528-4b13-936f-8087de0812dc-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\3b679899-3528-4b13-936f-8087de0812dc-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\3b679899-3528-4b13-936f-8087de0812dc-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\480f6782-b4f1-4ae7-942e-fbbac958bf09-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\480f6782-b4f1-4ae7-942e-fbbac958bf09-2.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\480f6782-b4f1-4ae7-942e-fbbac958bf09-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\4c75b06a-25b3-416a-b6c0-abcd35e204ed-401512714_881400793567111_5303671807469235455_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\4c75b06a-25b3-416a-b6c0-abcd35e204ed-401512714_881400793567111_5303671807469235455_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\4c75b06a-25b3-416a-b6c0-abcd35e204ed-401512714_881400793567111_5303671807469235455_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\4ca7ccd8-4772-4d02-ac89-62c2a5871099-401512714_881400793567111_5303671807469235455_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\4ca7ccd8-4772-4d02-ac89-62c2a5871099-401512714_881400793567111_5303671807469235455_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\4ca7ccd8-4772-4d02-ac89-62c2a5871099-401512714_881400793567111_5303671807469235455_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\52213c13-7087-4a82-9ec8-67f69edc74b8-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\52213c13-7087-4a82-9ec8-67f69edc74b8-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\52213c13-7087-4a82-9ec8-67f69edc74b8-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\5a5fb74d-958f-4db8-971e-71f98229f4e8-1620_1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\5a5fb74d-958f-4db8-971e-71f98229f4e8-1620_1.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\5a5fb74d-958f-4db8-971e-71f98229f4e8-1620_1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\61ed3a8c-5bf4-4cb4-a371-a8e93bbb3fa7-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\61ed3a8c-5bf4-4cb4-a371-a8e93bbb3fa7-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\61ed3a8c-5bf4-4cb4-a371-a8e93bbb3fa7-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\6686d6a6-8166-48ca-b9aa-d5a749635d2a-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\6686d6a6-8166-48ca-b9aa-d5a749635d2a-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\6686d6a6-8166-48ca-b9aa-d5a749635d2a-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\6f0dda6a-7cce-40c0-b8f4-0e950b31ee99-91316705_2826932030767599_4384472391519043584_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\6f0dda6a-7cce-40c0-b8f4-0e950b31ee99-91316705_2826932030767599_4384472391519043584_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\6f0dda6a-7cce-40c0-b8f4-0e950b31ee99-91316705_2826932030767599_4384472391519043584_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\72c5c242-cc1b-4a18-ac05-d9255760be73-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\72c5c242-cc1b-4a18-ac05-d9255760be73-2.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\72c5c242-cc1b-4a18-ac05-d9255760be73-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\7396a719-3a34-46d2-a52c-23bd7bda2c0b-8c56de959cd76b8932c6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\7396a719-3a34-46d2-a52c-23bd7bda2c0b-8c56de959cd76b8932c6.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\7396a719-3a34-46d2-a52c-23bd7bda2c0b-8c56de959cd76b8932c6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\751627e2-5d0b-4ac8-a403-05a3ee68ef0a-8c56de959cd76b8932c6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\751627e2-5d0b-4ac8-a403-05a3ee68ef0a-8c56de959cd76b8932c6.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\751627e2-5d0b-4ac8-a403-05a3ee68ef0a-8c56de959cd76b8932c6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\76b2e573-d22e-4398-810d-e4dc81fd0690-91316705_2826932030767599_4384472391519043584_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\76b2e573-d22e-4398-810d-e4dc81fd0690-91316705_2826932030767599_4384472391519043584_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\76b2e573-d22e-4398-810d-e4dc81fd0690-91316705_2826932030767599_4384472391519043584_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\7a04519f-b2c5-4670-b310-d7c5867d308f-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\7a04519f-b2c5-4670-b310-d7c5867d308f-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\7a04519f-b2c5-4670-b310-d7c5867d308f-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\81103584-fe6b-40de-ba6d-e4a9065ad040-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\81103584-fe6b-40de-ba6d-e4a9065ad040-2.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\81103584-fe6b-40de-ba6d-e4a9065ad040-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\844455dd-3388-4989-bd86-16b68917d913-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\844455dd-3388-4989-bd86-16b68917d913-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\844455dd-3388-4989-bd86-16b68917d913-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\87266ef1-2ec7-4364-9da0-f9913e991f8e-91073226_2826935270767275_1885454002577997824_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\87266ef1-2ec7-4364-9da0-f9913e991f8e-91073226_2826935270767275_1885454002577997824_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\87266ef1-2ec7-4364-9da0-f9913e991f8e-91073226_2826935270767275_1885454002577997824_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\8ee20f57-e571-47f1-bbd5-0acc5deca416-Screenshot 2023-09-13 223811.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\8ee20f57-e571-47f1-bbd5-0acc5deca416-Screenshot 2023-09-13 223811.png",
       "PackagePath": "staticwebassets\\uploads\\images\\8ee20f57-e571-47f1-bbd5-0acc5deca416-Screenshot 2023-09-13 223811.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\9608cf9a-c8b9-478b-8ac7-98ce4b222a19-8c56de959cd76b8932c6.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\9608cf9a-c8b9-478b-8ac7-98ce4b222a19-8c56de959cd76b8932c6.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\9608cf9a-c8b9-478b-8ac7-98ce4b222a19-8c56de959cd76b8932c6.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a07b9d6c-460a-4a5e-a9fd-a703275ef756-Screenshot 2023-08-20 220047.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a07b9d6c-460a-4a5e-a9fd-a703275ef756-Screenshot 2023-08-20 220047.png",
       "PackagePath": "staticwebassets\\uploads\\images\\a07b9d6c-460a-4a5e-a9fd-a703275ef756-Screenshot 2023-08-20 220047.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a2a2c729-7e53-449b-8748-b618e0663a69-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a2a2c729-7e53-449b-8748-b618e0663a69-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\a2a2c729-7e53-449b-8748-b618e0663a69-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a66ec8d1-0060-4773-9595-4b42995b2897-401512714_881400793567111_5303671807469235455_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a66ec8d1-0060-4773-9595-4b42995b2897-401512714_881400793567111_5303671807469235455_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\a66ec8d1-0060-4773-9595-4b42995b2897-401512714_881400793567111_5303671807469235455_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a7e16a2c-574c-4210-999f-35bcd47711ea-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\a7e16a2c-574c-4210-999f-35bcd47711ea-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\a7e16a2c-574c-4210-999f-35bcd47711ea-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\b1cf8c21-ae8e-4d1c-94e2-9558f1a798f5-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\b1cf8c21-ae8e-4d1c-94e2-9558f1a798f5-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\b1cf8c21-ae8e-4d1c-94e2-9558f1a798f5-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\b8940612-7a79-4d06-9d0f-bad2eb829c8e-401512714_881400793567111_5303671807469235455_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\b8940612-7a79-4d06-9d0f-bad2eb829c8e-401512714_881400793567111_5303671807469235455_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\b8940612-7a79-4d06-9d0f-bad2eb829c8e-401512714_881400793567111_5303671807469235455_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ba80c8de-efad-4165-b667-0396c9b5f280-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ba80c8de-efad-4165-b667-0396c9b5f280-2.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\ba80c8de-efad-4165-b667-0396c9b5f280-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\d0779e00-c4bc-41f1-9f76-6bddbcdcba7e-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\d0779e00-c4bc-41f1-9f76-6bddbcdcba7e-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\d0779e00-c4bc-41f1-9f76-6bddbcdcba7e-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\d393858a-453d-40b1-b530-1fd9bf4037a8-5.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\d393858a-453d-40b1-b530-1fd9bf4037a8-5.png",
       "PackagePath": "staticwebassets\\uploads\\images\\d393858a-453d-40b1-b530-1fd9bf4037a8-5.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\d963474a-8040-4b9c-bffc-63cf164d4feb-2_TZWI.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\d963474a-8040-4b9c-bffc-63cf164d4feb-2_TZWI.png",
       "PackagePath": "staticwebassets\\uploads\\images\\d963474a-8040-4b9c-bffc-63cf164d4feb-2_TZWI.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\db4e116a-df89-4daa-a351-33e30abb12d2-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\db4e116a-df89-4daa-a351-33e30abb12d2-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\db4e116a-df89-4daa-a351-33e30abb12d2-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dbcb2899-1c8d-404a-86c4-630043d2a2d7-2_TZWI.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dbcb2899-1c8d-404a-86c4-630043d2a2d7-2_TZWI.png",
       "PackagePath": "staticwebassets\\uploads\\images\\dbcb2899-1c8d-404a-86c4-630043d2a2d7-2_TZWI.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dc1c1689-1f6f-422f-9087-71320bf7e459-1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dc1c1689-1f6f-422f-9087-71320bf7e459-1.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\dc1c1689-1f6f-422f-9087-71320bf7e459-1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dd130b6f-73ca-4b0f-a0d2-acc8593321dc-3.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dd130b6f-73ca-4b0f-a0d2-acc8593321dc-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\dd130b6f-73ca-4b0f-a0d2-acc8593321dc-3.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\de1c2a9d-43c3-4060-8b95-5ec07fbcea4e-91316705_2826932030767599_4384472391519043584_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\de1c2a9d-43c3-4060-8b95-5ec07fbcea4e-91316705_2826932030767599_4384472391519043584_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\de1c2a9d-43c3-4060-8b95-5ec07fbcea4e-91316705_2826932030767599_4384472391519043584_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dfb82a6b-c7e1-4e17-963a-83d2ebfc3855-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\dfb82a6b-c7e1-4e17-963a-83d2ebfc3855-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\dfb82a6b-c7e1-4e17-963a-83d2ebfc3855-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\e0fe26af-5749-460d-981a-f93506cbfd9d-2.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\e0fe26af-5749-460d-981a-f93506cbfd9d-2.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\e0fe26af-5749-460d-981a-f93506cbfd9d-2.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\e260c31e-4036-438b-bee5-36116af67c18-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\e260c31e-4036-438b-bee5-36116af67c18-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\e260c31e-4036-438b-bee5-36116af67c18-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ec50acca-003a-45d8-8aef-d5abd84ee426-1620_1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ec50acca-003a-45d8-8aef-d5abd84ee426-1620_1.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\ec50acca-003a-45d8-8aef-d5abd84ee426-1620_1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ed8159dd-4c4a-46a4-8907-542f9cfaa5f4-81587674_109538533910535_5605031401880551424_n.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ed8159dd-4c4a-46a4-8907-542f9cfaa5f4-81587674_109538533910535_5605031401880551424_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\ed8159dd-4c4a-46a4-8907-542f9cfaa5f4-81587674_109538533910535_5605031401880551424_n.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ee92a5d1-abcd-478a-aca9-4fb476f1a913-1101469862980747346-removebg-preview.png",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\ee92a5d1-abcd-478a-aca9-4fb476f1a913-1101469862980747346-removebg-preview.png",
       "PackagePath": "staticwebassets\\uploads\\images\\ee92a5d1-abcd-478a-aca9-4fb476f1a913-1101469862980747346-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\efce081c-0861-4bb3-ab3b-38f967e41551-1620_1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\efce081c-0861-4bb3-ab3b-38f967e41551-1620_1.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\efce081c-0861-4bb3-ab3b-38f967e41551-1620_1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\f63ce7be-931e-4032-ab68-c7ce443e5619-1620_1.jpg",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\images\\f63ce7be-931e-4032-ab68-c7ce443e5619-1620_1.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\f63ce7be-931e-4032-ab68-c7ce443e5619-1620_1.jpg"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\142e88da-a8b1-4446-81f9-165f5151a245-LOST ARK (64-bit, DX11) v.2.5.0.1 2022-07-22 10-45-54.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\142e88da-a8b1-4446-81f9-165f5151a245-LOST ARK (64-bit, DX11) v.2.5.0.1 2022-07-22 10-45-54.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\142e88da-a8b1-4446-81f9-165f5151a245-LOST ARK (64-bit, DX11) v.2.5.0.1 2022-07-22 10-45-54.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\424f5dcd-6b42-497c-809a-51976582401c-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\424f5dcd-6b42-497c-809a-51976582401c-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\424f5dcd-6b42-497c-809a-51976582401c-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\59f257f3-13e8-4cc3-b484-120be223d66f-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\59f257f3-13e8-4cc3-b484-120be223d66f-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\59f257f3-13e8-4cc3-b484-120be223d66f-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\87e78ce7-fdfa-45f2-89bc-492fb371cb58-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\87e78ce7-fdfa-45f2-89bc-492fb371cb58-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\87e78ce7-fdfa-45f2-89bc-492fb371cb58-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\a2d281c0-bd3e-4f38-adf7-8d62260972af-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\a2d281c0-bd3e-4f38-adf7-8d62260972af-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\a2d281c0-bd3e-4f38-adf7-8d62260972af-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\bdeba33b-ab9a-4104-a42f-5a30a802a362-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\bdeba33b-ab9a-4104-a42f-5a30a802a362-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\bdeba33b-ab9a-4104-a42f-5a30a802a362-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\d053ee18-1b33-44ef-b403-ebd203d7c660-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\d053ee18-1b33-44ef-b403-ebd203d7c660-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\d053ee18-1b33-44ef-b403-ebd203d7c660-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4"
     },
     {
-      "Id": "C:\\Users\\khanh\\Downloads\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\f4e259b3-4f61-44af-9187-c9bd197e6ea3-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
+      "Id": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\wwwroot\\uploads\\videos\\f4e259b3-4f61-44af-9187-c9bd197e6ea3-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4",
       "PackagePath": "staticwebassets\\uploads\\videos\\f4e259b3-4f61-44af-9187-c9bd197e6ea3-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4"
     },
     {
