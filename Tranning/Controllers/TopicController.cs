@@ -304,8 +304,8 @@ namespace Tranning.Controllers
         public IActionResult Update(int id = 0)
         {
             var data = _dbContext.Topics.FirstOrDefault(m => m.id == id);
-            
-      
+
+
 
             if (data != null)
             {
@@ -344,9 +344,7 @@ namespace Tranning.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    var data = _dbContext.Topics.FirstOrDefault(m => m.id == topic.id);            
-
-
+                    var data = _dbContext.Topics.FirstOrDefault(m => m.id == topic.id);
 
                     if (data != null)
                     {
@@ -355,20 +353,22 @@ namespace Tranning.Controllers
                         data.status = topic.status;
                         data.course_id = topic.course_id;
 
-                        // Update the file fields if a new file is provided
+                        // Check if a new Attach File is provided
                         if (topic.file != null)
                         {
                             data.attach_file = await UploadAttachFile(topic.file);
                         }
 
+                        // Check if a new Document File is provided
+                        if (topic.document_file != null)
+                        {
+                            data.documents = await UploadDocuments(topic.document_file);
+                        }
+
+                        // Check if a new Video is provided, otherwise, keep the existing video
                         if (topic.photo != null)
                         {
                             data.videos = await UploadVideo(topic.photo);
-                        }
-
-                        if (topic.documents != null)
-                        {
-                            data.documents = await UploadDocuments(topic.document_file);
                         }
 
                         data.updated_at = DateTime.Now;
@@ -396,6 +396,7 @@ namespace Tranning.Controllers
                 return RedirectToAction(nameof(Index));
             }
         }
+
 
     }
 }

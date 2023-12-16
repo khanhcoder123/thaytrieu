@@ -136,5 +136,7 @@ namespace Tranning.Controllers
 
             return RedirectToAction(nameof(TraineeCourseController.Index), "TraineeCourseController");
         }
+
+
     }
 }

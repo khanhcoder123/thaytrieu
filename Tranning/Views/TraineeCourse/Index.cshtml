@@ -55,6 +55,7 @@
                     <th>TRAINEE NAME</th>        
                     <th>CREATED AT</th>
                     <th>UPDATED AT</th>
+                    <th>DELETE AT</th>
                     <th>ACTION</th>
                 </tr>
             </thead>
@@ -66,8 +67,12 @@
                         <td>@item.TraineeName</td>                        
                         <td>@item.created_at</td>
                         <td>@item.updated_at</td>
+                        <td>@item.deleted_at</td>
+
                         <td>
-                            <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "TraineeCourseController", new { trainee_id = @item.trainee_id, course_id = @item.course_id })">Delete</a>
+                            <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "TraineeCourse", new { trainee_id = @item.trainee_id, course_id = @item.course_id })">Delete</a>
+
+
                         </td>
                     </tr>
                 }

@@ -40,13 +40,16 @@
                                 </select>
                                 <span asp-validation-for="status" class="text-danger"></span>
                             </div>
-                            <div class="form-group">
+                           <div class="form-group">
                                 <label asp-for="file" class="control-label">Attach File</label>
                                 <input type="file" class="form-control" asp-for="file" />
+                                <span class="text-info">Current File: @Model.attach_file</span>
                             </div>
+
                             <div class="form-group">
                                 <label asp-for="document_file" class="control-label">Document File</label>
                                 <input type="file" class="form-control" asp-for="document_file" />
+                                <span class="text-info">Current File: @Model.documents</span>
                             </div>
                             <div class="form-group">
                                 <label asp-for="photo" class="control-label">Video</label>
