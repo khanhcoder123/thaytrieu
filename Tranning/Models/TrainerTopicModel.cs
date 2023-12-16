@@ -15,7 +15,8 @@ namespace Tranning.Models
 
         public int trainer_id { get; set; }
 
-
+        public string? TrainerName { get; set; }
+        public string? TopicName { get; set; }
         public DateTime? created_at { get; set; }
 
         public DateTime? updated_at { get; set; }

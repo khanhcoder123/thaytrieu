@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using Tranning.DataDBContext;
 using Tranning.Models;
 
@@ -9,119 +11,102 @@ namespace Tranning.Controllers
     public class TrainerTopicController : Controller
     {
         private readonly TranningDBContext _dbContext;
+
         public TrainerTopicController(TranningDBContext context)
         {
             _dbContext = context;
         }
 
         [HttpGet]
-        public IActionResult Index(string SearchString)
+        public IActionResult Index(string searchString)
         {
-            TrainerTopicModel trainertopicModel = new TrainerTopicModel();
-            trainertopicModel.TrainerTopicDetailLists = new List<TrainerTopicDetail>();
-
-            var data = _dbContext.TrainerTopics.Where(m => m.deleted_at == null);
-
-            var trainertopics = data.ToList();
-
-            foreach (var item in trainertopics)
+            var trainerTopicModel = new TrainerTopicModel
             {
-                trainertopicModel.TrainerTopicDetailLists.Add(new TrainerTopicDetail
-                {
-                    topic_id = item.topic_id,
-                    trainer_id = item.trainer_id,
-                    created_at = item.created_at,
-                    updated_at = item.updated_at
-                });
-            }
+                TrainerTopicDetailLists = _dbContext.TrainerTopics
+                    .Where(tt => tt.deleted_at == null)
+                    .Join(_dbContext.Topics, tt => tt.topic_id, t => t.id, (tt, t) => new { tt, t })
+                    .Join(_dbContext.Users, ttt => ttt.tt.trainer_id, u => u.id, (ttt, u) => new TrainerTopicDetail
+                    {
+                        topic_id = ttt.tt.topic_id,
+                        trainer_id = ttt.tt.trainer_id,
+                        created_at = ttt.tt.created_at,
+                        updated_at = ttt.tt.updated_at,
+                        TopicName = ttt.t.name,
+                        TrainerName = u.full_name,
+                        deleted_at = ttt.tt.deleted_at
+                    })
+                    .Where(m => m.deleted_at == null)
+                    .ToList()
+            };
 
-            ViewData["CurrentFilter"] = SearchString;
-            return View(trainertopicModel);
+            ViewData["CurrentFilter"] = searchString;
+            return View(trainerTopicModel);
         }
 
         [HttpGet]
         public IActionResult Add()
         {
-            TrainerTopicDetail trainertopic = new TrainerTopicDetail();
+            var trainerTopic = new TrainerTopicDetail();
             var topicList = _dbContext.Topics
-              .Where(m => m.deleted_at == null)
-              .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.name }).ToList();
+                .Where(t => t.deleted_at == null)
+                .Select(t => new SelectListItem { Value = t.id.ToString(), Text = t.name })
+                .ToList();
+
+            var traineeList = _dbContext.Users
+                .Where(u => u.deleted_at == null && u.role_id == 4)
+                .Select(u => new SelectListItem { Value = u.id.ToString(), Text = u.full_name })
+                .ToList();
+
             ViewBag.Stores = topicList;
+            ViewBag.Stores1 = traineeList;
 
-            var trainerList = _dbContext.Users
-              .Where(m => m.deleted_at == null && m.role_id == 3)
-              .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.full_name }).ToList();
-            ViewBag.Stores1 = trainerList;
-
-            return View(trainertopic);
+            return View(trainerTopic);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Add(TrainerTopicDetail trainertopic)
+        public IActionResult Add(TrainerTopicDetail trainerTopic)
         {
-
             if (ModelState.IsValid)
             {
                 try
                 {
-                    var trainertopicData = new TrainerTopic()
+                    var trainerTopicData = new TrainerTopic
                     {
-                        topic_id = trainertopic.topic_id,
-                        trainer_id = trainertopic.trainer_id,
-                        created_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"))
+                        topic_id = trainerTopic.topic_id,
+                        trainer_id = trainerTopic.trainer_id,
+                        created_at = DateTime.UtcNow
                     };
 
-                    _dbContext.TrainerTopics.Add(trainertopicData);
-                    _dbContext.SaveChanges(true);
+                    _dbContext.TrainerTopics.Add(trainerTopicData);
+                    _dbContext.SaveChanges();
                     TempData["saveStatus"] = true;
+                    return RedirectToAction(nameof(Index));
                 }
-
                 catch (Exception ex)
                 {
-
                     TempData["saveStatus"] = false;
-                }
-                return RedirectToAction(nameof(TrainerTopicController.Index), "TrainerTopic");
-            }
-
-
-            var courseList = _dbContext.Courses
-              .Where(m => m.deleted_at == null)
-              .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.name }).ToList();
-            ViewBag.Stores = courseList;
-
-            var traineeList = _dbContext.Users
-              .Where(m => m.deleted_at == null && m.role_id == 3)
-              .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.full_name }).ToList();
-            ViewBag.Stores1 = traineeList;
-
-
-            Console.WriteLine(ModelState.IsValid);
-            foreach (var key in ModelState.Keys)
-            {
-                var error = ModelState[key].Errors.FirstOrDefault();
-                if (error != null)
-                {
-                    Console.WriteLine($"Error in {key}: {error.ErrorMessage}");
+                    // Log the exception for debugging purposes
+                    // LogException(ex);
                 }
             }
-            return View(trainertopic);
+
+            PopulateDropdowns();
+            return View(trainerTopic);
         }
 
         [HttpGet]
-        public IActionResult Delete(int trainer_id = 0, int topic_id = 0)
+        public IActionResult Delete(int topic_id = 0, int trainer_id = 0)
         {
             try
             {
                 var data = _dbContext.TrainerTopics
-                    .Where(tc => tc.trainer_id == trainer_id && tc.topic_id == topic_id)
-                    .FirstOrDefault();
+                    .FirstOrDefault(tt => tt.topic_id == topic_id && tt.trainer_id == trainer_id);
 
                 if (data != null)
                 {
-                    data.deleted_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
-                    _dbContext.SaveChanges(true);
+                    data.deleted_at = DateTime.UtcNow;
+                    _dbContext.SaveChanges();
                     TempData["DeleteStatus"] = true;
                 }
                 else
@@ -129,12 +114,33 @@ namespace Tranning.Controllers
                     TempData["DeleteStatus"] = false;
                 }
             }
-            catch
+            catch (Exception ex)
             {
                 TempData["DeleteStatus"] = false;
+                // Log the exception for debugging purposes
+                // LogException(ex);
             }
 
-            return RedirectToAction(nameof(TrainerTopicController.Index), "TrainerTopicController");
+            return RedirectToAction(nameof(Index));
         }
+
+        private void PopulateDropdowns()
+        {
+            ViewBag.Stores = _dbContext.Topics
+                .Where(t => t.deleted_at == null)
+                .Select(t => new SelectListItem { Value = t.id.ToString(), Text = t.name })
+                .ToList();
+
+            ViewBag.Stores1 = _dbContext.Users
+                .Where(u => u.deleted_at == null && u.role_id == 4)
+                .Select(u => new SelectListItem { Value = u.id.ToString(), Text = u.full_name })
+                .ToList();
+        }
+
+        // Consider adding a LogException method for logging exceptions
+        // private void LogException(Exception ex)
+        // {
+        //     // Your logging implementation
+        // }
     }
 }

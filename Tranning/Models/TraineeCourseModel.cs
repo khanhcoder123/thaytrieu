@@ -23,5 +23,8 @@ namespace Tranning.Models
         public DateTime? updated_at { get; set; }
 
         public DateTime? deleted_at { get; set; }
+        public string? CourseName { get; set; }
+        public string? TraineeName { get; set; }
+
     }
 }

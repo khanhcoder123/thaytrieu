@@ -21,23 +21,21 @@ namespace Tranning.Controllers
             TraineeCourseModel traineecourseModel = new TraineeCourseModel();
             traineecourseModel.TraineeCourseDetailLists = new List<TraineeCourseDetail>();
 
-            var data = _dbContext.TraineeCourses.Where(m => m.deleted_at == null);
-
-
-
-            var traineecourses = data.ToList();
-
-            foreach (var item in traineecourses)
-            {
-                traineecourseModel.TraineeCourseDetailLists.Add(new TraineeCourseDetail
+            var data = _dbContext.TraineeCourses.
+                Join(_dbContext.Courses, tr => tr.course_id, c => c.id, (tr, c) => new {tr, c})
+                .Join(_dbContext.Users, trr => trr.tr.trainee_id, u => u.id, (trr, u) => new {trr, u})
+                .Select(m => new TraineeCourseDetail
                 {
-                    course_id = item.course_id,
-                    trainee_id = item.trainee_id,
-                    created_at = item.created_at,
-                    updated_at = item.updated_at
-                });
-            }
-
+                    course_id = m.trr.tr.course_id,
+                    trainee_id = m.trr.tr.trainee_id,
+                    created_at = m.trr.tr.created_at,
+                    updated_at = m.trr.tr.updated_at,
+                    CourseName = m.trr.c.name,
+                    TraineeName = m.u.full_name,
+                    deleted_at = m.trr.tr.deleted_at
+                })
+                .Where(m => m.deleted_at == null);
+            traineecourseModel.TraineeCourseDetailLists = data.ToList();
             ViewData["CurrentFilter"] = SearchString;
             return View(traineecourseModel);
         }
