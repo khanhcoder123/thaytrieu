@@ -21,11 +21,21 @@ namespace Tranning.Controllers
             CourseModel courseModel = new CourseModel();
             courseModel.CourseDetailLists = new List<CourseDetail>();
 
-            var data = _dbContext.Courses.Where(m => m.deleted_at == null);
+            var data = _dbContext.Courses
+                .Where(m => m.deleted_at == null)
+                .Join(
+                    _dbContext.Categories,
+                    course => course.category_id,
+                    category => category.id,
+                    (course, category) => new
+                    {
+                        Course = course,
+                        CategoryName = category.name // Add this line to include the category name
+                    });
 
             if (!string.IsNullOrEmpty(SearchString))
             {
-                data = data.Where(m => m.name.Contains(SearchString) || m.description.Contains(SearchString));
+                data = data.Where(item => item.Course.name.Contains(SearchString) || item.Course.description.Contains(SearchString));
             }
 
             var courses = data.ToList();
@@ -34,16 +44,17 @@ namespace Tranning.Controllers
             {
                 courseModel.CourseDetailLists.Add(new CourseDetail
                 {
-                    id = item.id,
-                    category_id = item.category_id,
-                    name = item.name,
-                    description = item.description,
-                    avatar = item.avatar,
-                    status = item.status,
-                    start_date = item.start_date,
-                    end_date = item.end_date,
-                    created_at = item.created_at,
-                    updated_at = item.updated_at
+                    id = item.Course.id,
+                    category_id = item.Course.category_id,
+                    categoryName = item.CategoryName, // Add this line to set the categoryName
+                    name = item.Course.name,
+                    description = item.Course.description,
+                    avatar = item.Course.avatar,
+                    status = item.Course.status,
+                    start_date = item.Course.start_date,
+                    end_date = item.Course.end_date,
+                    created_at = item.Course.created_at,
+                    updated_at = item.Course.updated_at
                 });
             }
 

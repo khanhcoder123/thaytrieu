@@ -9,14 +9,17 @@ namespace Tranning.Models
 
     public class TrainerTopicDetail
     {
+        [Key]
+        public int id { get; set; } 
         [Required(ErrorMessage = "Choose Topic, please")]
         public int topic_id { get; set; }
         [Required(ErrorMessage = "Choose Trainer, please")]
 
         public int trainer_id { get; set; }
 
-        public string? TrainerName { get; set; }
-        public string? TopicName { get; set; }
+        public string? trainerName { get; set; }
+        public string? topicName { get; set; }
+
         public DateTime? created_at { get; set; }
 
         public DateTime? updated_at { get; set; }

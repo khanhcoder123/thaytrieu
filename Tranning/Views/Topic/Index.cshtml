@@ -40,7 +40,7 @@
             {
                 <tr>
                     <td>@item.id</td>
-                    <td>@item.course_id</td>
+                    <td>@item.courseName</td>
                     <td>@item.name</td>
                     <td>@item.description</td>
                     
@@ -56,14 +56,14 @@
                     <td>
                         @if (!string.IsNullOrEmpty(item.attach_file))
                         {
-                            <p>Attachment: <a href="/uploads/attachfiles/@item.attach_file" download>Download</a></p>
+                            <p>Attachment: <a href="/uploads/attachfiles/@item.attach_file" download>@item.attach_file</a></p>
                         }
                     </td>
 
                     <td>
                         @if (!string.IsNullOrEmpty(item.documents))
                         {
-                            <p>Document: <a href="/uploads/documents/@item.documents" download>Download</a></p>
+                            <p>Document: <a href="/uploads/documents/@item.documents" download>@item.documents</a></p>
                         }
                     </td>
                     <td>@item.status</td>

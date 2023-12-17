@@ -19,7 +19,7 @@ namespace Tranning.Models
         [Required(ErrorMessage = "Enter name, please")]
         public string name { get; set; }
 
-
+        public string? categoryName {  get; set; }
         public string? description { get; set; }
 
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]

@@ -5360,22 +5360,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Tranning.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\017f2894-9a77-490d-bfe1-0fc4c0aeced4-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/017f2894-9a77-490d-bfe1-0fc4c0aeced4-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\017f2894-9a77-490d-bfe1-0fc4c0aeced4-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -5407,54 +5391,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\0e34250c-067a-4aa8-bb40-77605eccbc74-unikey46RC1-230912-win64.zip))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\13b69b73-a085-4d54-aabd-96c64f901a8b-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/13b69b73-a085-4d54-aabd-96c64f901a8b-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\13b69b73-a085-4d54-aabd-96c64f901a8b-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\25bf544c-29c4-4c9b-ae15-a5884528db41-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/25bf544c-29c4-4c9b-ae15-a5884528db41-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\25bf544c-29c4-4c9b-ae15-a5884528db41-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\357eb7cc-1fab-416c-a613-6451949cec7a-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/357eb7cc-1fab-416c-a613-6451949cec7a-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\357eb7cc-1fab-416c-a613-6451949cec7a-avatar-vo-tri-1.rar))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\37b77e5d-51cf-4882-a988-1fe9a21bc3fc-EVKey.zip))">
       <SourceType>Package</SourceType>
@@ -5488,86 +5424,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\42d8064e-b6c0-46dc-b4f3-8acba93c7dcb-EVKey.zip))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\64c50b6d-cc8b-4450-8e36-9ea80ef9b1a7-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/64c50b6d-cc8b-4450-8e36-9ea80ef9b1a7-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\64c50b6d-cc8b-4450-8e36-9ea80ef9b1a7-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\80efc8c5-31e8-4428-be7b-a4c64cf4f2f6-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/80efc8c5-31e8-4428-be7b-a4c64cf4f2f6-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\80efc8c5-31e8-4428-be7b-a4c64cf4f2f6-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\82788a88-d18e-43f4-a732-42b873b03d49-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/82788a88-d18e-43f4-a732-42b873b03d49-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\82788a88-d18e-43f4-a732-42b873b03d49-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\98ad97b5-c14d-4745-bce3-a5f31cab62fb-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/98ad97b5-c14d-4745-bce3-a5f31cab62fb-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\98ad97b5-c14d-4745-bce3-a5f31cab62fb-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\9c2a4d2a-8e4f-453c-8324-6bfe07965666-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/9c2a4d2a-8e4f-453c-8324-6bfe07965666-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\9c2a4d2a-8e4f-453c-8324-6bfe07965666-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\b09257b3-c728-40a7-8a0e-e56892ce9447-EVKey.zip))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -5583,22 +5439,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\b09257b3-c728-40a7-8a0e-e56892ce9447-EVKey.zip))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\c4ba568c-a843-48b5-bd8e-d06b75b3b390-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/c4ba568c-a843-48b5-bd8e-d06b75b3b390-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\c4ba568c-a843-48b5-bd8e-d06b75b3b390-avatar-vo-tri-1.rar))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\ccd6a765-f1df-4c88-a5ad-697e09c07222-unikey46RC1-230912-win64.zip))">
       <SourceType>Package</SourceType>
@@ -5616,22 +5456,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\ccd6a765-f1df-4c88-a5ad-697e09c07222-unikey46RC1-230912-win64.zip))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\cea3a615-fb22-424f-8e65-0e5b4c15ed71-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/cea3a615-fb22-424f-8e65-0e5b4c15ed71-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\cea3a615-fb22-424f-8e65-0e5b4c15ed71-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\d078342a-dc6c-4aec-a013-c36ea4c3424c-EVKey.zip))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -5648,12 +5472,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\d078342a-dc6c-4aec-a013-c36ea4c3424c-EVKey.zip))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\d2522815-d6da-4788-b6ca-58c940e23cc0-avatar-vo-tri-1.rar))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\EVKey.zip))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/d2522815-d6da-4788-b6ca-58c940e23cc0-avatar-vo-tri-1.rar</RelativePath>
+      <RelativePath>uploads/attachfiles/EVKey.zip</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5662,71 +5486,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\d2522815-d6da-4788-b6ca-58c940e23cc0-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\df619919-db1f-419a-9c71-6e5bd8b5cb5e-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/df619919-db1f-419a-9c71-6e5bd8b5cb5e-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\df619919-db1f-419a-9c71-6e5bd8b5cb5e-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\e0f62e3d-b239-471a-825b-af42fb76351c-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/e0f62e3d-b239-471a-825b-af42fb76351c-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\e0f62e3d-b239-471a-825b-af42fb76351c-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\e78686d5-cd01-47e0-8e64-57157c1068b1-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/e78686d5-cd01-47e0-8e64-57157c1068b1-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\e78686d5-cd01-47e0-8e64-57157c1068b1-avatar-vo-tri-1.rar))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\f37d5cb6-874c-4e48-934b-cb08649690d1-avatar-vo-tri-1.rar))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/attachfiles/f37d5cb6-874c-4e48-934b-cb08649690d1-avatar-vo-tri-1.rar</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\f37d5cb6-874c-4e48-934b-cb08649690d1-avatar-vo-tri-1.rar))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\EVKey.zip))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\f5139a45-cb29-4f68-9662-5c78986c416d-061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip))">
       <SourceType>Package</SourceType>
@@ -5744,12 +5504,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\f5139a45-cb29-4f68-9662-5c78986c416d-061a85d3-6f73-4404-8b68-6255b6c86e5a-unikey46RC1-230912-win64.zip))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\0e271e9c-aaa2-4bb0-971b-7d8f5fb93659-4b32d69c-5504-4553-bd57-0cbc00272334-Unit 30 - Assignment brief 1.docx))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\unikey46RC1-230912-win64.zip))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/documents/0e271e9c-aaa2-4bb0-971b-7d8f5fb93659-4b32d69c-5504-4553-bd57-0cbc00272334-Unit 30 - Assignment brief 1.docx</RelativePath>
+      <RelativePath>uploads/attachfiles/unikey46RC1-230912-win64.zip</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5758,7 +5518,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\0e271e9c-aaa2-4bb0-971b-7d8f5fb93659-4b32d69c-5504-4553-bd57-0cbc00272334-Unit 30 - Assignment brief 1.docx))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\attachfiles\unikey46RC1-230912-win64.zip))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\1c1157a8-bac2-46da-96b1-a297fd376804-Requirements.pdf))">
       <SourceType>Package</SourceType>
@@ -5792,38 +5552,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\2d7763ee-8fc1-4791-a778-5b54eaa4cabf-Requirements.pdf))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\4b32d69c-5504-4553-bd57-0cbc00272334-Unit 30 - Assignment brief 1.docx))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/documents/4b32d69c-5504-4553-bd57-0cbc00272334-Unit 30 - Assignment brief 1.docx</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\4b32d69c-5504-4553-bd57-0cbc00272334-Unit 30 - Assignment brief 1.docx))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\8a2e1abc-b8ac-41bc-80ec-1d0f1f492b90-Unit 30 - Assignment brief 1.docx))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/documents/8a2e1abc-b8ac-41bc-80ec-1d0f1f492b90-Unit 30 - Assignment brief 1.docx</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\8a2e1abc-b8ac-41bc-80ec-1d0f1f492b90-Unit 30 - Assignment brief 1.docx))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\a0c96f26-43ec-48db-8c91-da31e8c6e659-Unit 30 - Assignment brief 2 (2).pdf))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -5840,12 +5568,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\a0c96f26-43ec-48db-8c91-da31e8c6e659-Unit 30 - Assignment brief 2 (2).pdf))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\c0f7e037-ce65-4fbc-b0a1-5240bb2b1e2a-Unit 30 - Assignment brief 2.docx))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\Assignment.pdf))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/documents/c0f7e037-ce65-4fbc-b0a1-5240bb2b1e2a-Unit 30 - Assignment brief 2.docx</RelativePath>
+      <RelativePath>uploads/documents/Assignment.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5854,14 +5582,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\c0f7e037-ce65-4fbc-b0a1-5240bb2b1e2a-Unit 30 - Assignment brief 2.docx))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\Assignment.pdf))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\d4f29af2-0dca-43ac-92ac-fac5af056d47-Unit 30 - Assignment brief 1.docx))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\Requirements.pdf))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/documents/d4f29af2-0dca-43ac-92ac-fac5af056d47-Unit 30 - Assignment brief 1.docx</RelativePath>
+      <RelativePath>uploads/documents/Requirements.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5870,23 +5598,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\d4f29af2-0dca-43ac-92ac-fac5af056d47-Unit 30 - Assignment brief 1.docx))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\008ad9cf-7920-4126-a385-7034503c1e90-bg.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/images/008ad9cf-7920-4126-a385-7034503c1e90-bg.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\008ad9cf-7920-4126-a385-7034503c1e90-bg.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\documents\Requirements.pdf))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\0158e1ff-d683-4253-ae23-dd6cd7cd0c9e-3.jpg))">
       <SourceType>Package</SourceType>
@@ -6128,6 +5840,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\32ef2a1f-4131-4b13-907b-9228c52bbb8a-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\33456df2-3e00-4087-ad48-c4d5e6a390a0-3.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tranning</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tranning</BasePath>
+      <RelativePath>uploads/images/33456df2-3e00-4087-ad48-c4d5e6a390a0-3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\33456df2-3e00-4087-ad48-c4d5e6a390a0-3.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\344b6262-72d3-45b3-b04b-6c18154fd819-8c56de959cd76b8932c6.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -6175,22 +5903,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\3b679899-3528-4b13-936f-8087de0812dc-3.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\4755cce5-97c8-43c1-aa4e-ea163752cf3c-bg.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/images/4755cce5-97c8-43c1-aa4e-ea163752cf3c-bg.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\4755cce5-97c8-43c1-aa4e-ea163752cf3c-bg.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\480f6782-b4f1-4ae7-942e-fbbac958bf09-2.jpg))">
       <SourceType>Package</SourceType>
@@ -6864,38 +6576,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\142e88da-a8b1-4446-81f9-165f5151a245-LOST ARK (64-bit, DX11) v.2.5.0.1 2022-07-22 10-45-54.mp4))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\1b586cb6-af8e-4468-9c89-0f91200c73d5-mov_bbb.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/1b586cb6-af8e-4468-9c89-0f91200c73d5-mov_bbb.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\1b586cb6-af8e-4468-9c89-0f91200c73d5-mov_bbb.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\1f53e730-768a-4b1e-ae32-4c16e43163d7-mov_bbb.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/1f53e730-768a-4b1e-ae32-4c16e43163d7-mov_bbb.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\1f53e730-768a-4b1e-ae32-4c16e43163d7-mov_bbb.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\424f5dcd-6b42-497c-809a-51976582401c-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -6911,6 +6591,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\424f5dcd-6b42-497c-809a-51976582401c-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\4e0ac526-2a81-4517-82e8-04fc6f26dee3-solo_empower_can't_activate.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tranning</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tranning</BasePath>
+      <RelativePath>uploads/videos/4e0ac526-2a81-4517-82e8-04fc6f26dee3-solo_empower_can't_activate.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\4e0ac526-2a81-4517-82e8-04fc6f26dee3-solo_empower_can't_activate.mp4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\59f257f3-13e8-4cc3-b484-120be223d66f-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))">
       <SourceType>Package</SourceType>
@@ -6928,12 +6624,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\59f257f3-13e8-4cc3-b484-120be223d66f-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\63685c4f-5b1c-4b3e-88db-a2032dcd530e-mov_bbb.mp4))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\729f83ab-d71b-4cd7-9d35-effaec46ba55-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/63685c4f-5b1c-4b3e-88db-a2032dcd530e-mov_bbb.mp4</RelativePath>
+      <RelativePath>uploads/videos/729f83ab-d71b-4cd7-9d35-effaec46ba55-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -6942,39 +6638,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\63685c4f-5b1c-4b3e-88db-a2032dcd530e-mov_bbb.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\6ab3036f-7604-4c65-a496-565fadd33e18-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/6ab3036f-7604-4c65-a496-565fadd33e18-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\6ab3036f-7604-4c65-a496-565fadd33e18-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\75f2d278-36d9-4ce4-bc4d-2ce1ba8aa5ea-mov_bbb.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/75f2d278-36d9-4ce4-bc4d-2ce1ba8aa5ea-mov_bbb.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\75f2d278-36d9-4ce4-bc4d-2ce1ba8aa5ea-mov_bbb.mp4))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\729f83ab-d71b-4cd7-9d35-effaec46ba55-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\87e78ce7-fdfa-45f2-89bc-492fb371cb58-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4))">
       <SourceType>Package</SourceType>
@@ -6992,54 +6656,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\87e78ce7-fdfa-45f2-89bc-492fb371cb58-LOST ARK (64-bit, DX11) v.2.1.1.4 2022-04-16 23-52-12.mp4))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\8851d379-f731-4d54-af93-03eaa6de2aa9-mov_bbb (3).mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/8851d379-f731-4d54-af93-03eaa6de2aa9-mov_bbb (3).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\8851d379-f731-4d54-af93-03eaa6de2aa9-mov_bbb (3).mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\934a20f2-dd8a-464d-bc50-ea84d5bb81d4-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/934a20f2-dd8a-464d-bc50-ea84d5bb81d4-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\934a20f2-dd8a-464d-bc50-ea84d5bb81d4-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\a21a30da-1583-44ba-bdbf-34d3b7b28cf9-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/a21a30da-1583-44ba-bdbf-34d3b7b28cf9-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\a21a30da-1583-44ba-bdbf-34d3b7b28cf9-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\a2d281c0-bd3e-4f38-adf7-8d62260972af-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -7056,12 +6672,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\a2d281c0-bd3e-4f38-adf7-8d62260972af-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\aabeb2ad-dc78-4815-bb31-1a42c1e604f4-406968750_7210801392283527_8599823771647565156_n.mp4))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\baaa6fda-9110-4c85-9b52-72e59c844bf4-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/aabeb2ad-dc78-4815-bb31-1a42c1e604f4-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
+      <RelativePath>uploads/videos/baaa6fda-9110-4c85-9b52-72e59c844bf4-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -7070,23 +6686,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\aabeb2ad-dc78-4815-bb31-1a42c1e604f4-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\b5caa6ab-904c-41aa-836b-10fa79a7c92d-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/b5caa6ab-904c-41aa-836b-10fa79a7c92d-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\b5caa6ab-904c-41aa-836b-10fa79a7c92d-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\baaa6fda-9110-4c85-9b52-72e59c844bf4-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\bdeba33b-ab9a-4104-a42f-5a30a802a362-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))">
       <SourceType>Package</SourceType>
@@ -7104,38 +6704,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\bdeba33b-ab9a-4104-a42f-5a30a802a362-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c20e755b-1cb2-4a29-86b3-3892deb3049d-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/c20e755b-1cb2-4a29-86b3-3892deb3049d-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c20e755b-1cb2-4a29-86b3-3892deb3049d-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c97c9ea6-8f92-45c9-8834-643d957a22a3-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/c97c9ea6-8f92-45c9-8834-643d957a22a3-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c97c9ea6-8f92-45c9-8834-643d957a22a3-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\d053ee18-1b33-44ef-b403-ebd203d7c660-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
@@ -7152,12 +6720,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\d053ee18-1b33-44ef-b403-ebd203d7c660-Chrome Remote Desktop - ThVu2 2022-04-15 10-43-18.mp4))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\d52d7861-afd4-4598-8618-72db6dbe343f-406968750_7210801392283527_8599823771647565156_n.mp4))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\ee12a269-db3e-4e45-b3d4-004bf84e4050-solo_arms_dealer.mp4))">
       <SourceType>Package</SourceType>
       <SourceId>Tranning</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/d52d7861-afd4-4598-8618-72db6dbe343f-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
+      <RelativePath>uploads/videos/ee12a269-db3e-4e45-b3d4-004bf84e4050-solo_arms_dealer.mp4</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -7166,39 +6734,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\d52d7861-afd4-4598-8618-72db6dbe343f-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\d9a6b61c-52ef-4a68-b623-1c222875dfc8-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/d9a6b61c-52ef-4a68-b623-1c222875dfc8-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\d9a6b61c-52ef-4a68-b623-1c222875dfc8-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\ee35f7e9-e8c7-4c75-84b3-488c97167198-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/ee35f7e9-e8c7-4c75-84b3-488c97167198-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\ee35f7e9-e8c7-4c75-84b3-488c97167198-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\ee12a269-db3e-4e45-b3d4-004bf84e4050-solo_arms_dealer.mp4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\f4e259b3-4f61-44af-9187-c9bd197e6ea3-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))">
       <SourceType>Package</SourceType>
@@ -7215,22 +6751,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\f4e259b3-4f61-44af-9187-c9bd197e6ea3-LOST ARK (64-bit, DX11) v.2.4.1.2 2022-07-13 22-22-25.mp4))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\f79871ba-ac3d-484d-af2a-657d7cf81bd0-406968750_7210801392283527_8599823771647565156_n.mp4))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tranning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tranning</BasePath>
-      <RelativePath>uploads/videos/f79871ba-ac3d-484d-af2a-657d7cf81bd0-406968750_7210801392283527_8599823771647565156_n.mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\f79871ba-ac3d-484d-af2a-657d7cf81bd0-406968750_7210801392283527_8599823771647565156_n.mp4))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
