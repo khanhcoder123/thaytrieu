@@ -494,9 +494,17 @@ namespace Tranning.Controllers
                 var data = _dbContext.Users.Where(m => m.id == id).FirstOrDefault();
                 if (data != null)
                 {
-                    data.deleted_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
-                    _dbContext.SaveChanges(true);
-                    TempData["DeleteStatus"] = true;
+                    var ckTraineeCourse = _dbContext.TraineeCourses.Where(x => x.trainee_id == id).FirstOrDefault();
+                    if(ckTraineeCourse != null)
+                    {
+                        TempData["DeleteStatus"] = false;
+                    }
+                    else
+                    {
+                        data.deleted_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
+                        _dbContext.SaveChanges(true);
+                        TempData["DeleteStatus"] = true;
+                    }
                 }
                 else
                 {

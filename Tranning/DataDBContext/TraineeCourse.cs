@@ -6,8 +6,7 @@ namespace Tranning.DataDBContext
 {
     public class TraineeCourse
     {
-        [Key]
-        public int id { get; set; }
+
         public int course_id { get; set; }
         public int trainee_id { get; set; }
 

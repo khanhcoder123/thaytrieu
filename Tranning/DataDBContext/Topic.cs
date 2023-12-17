@@ -9,20 +9,20 @@ namespace Tranning.DataDBContext
         [Key]
         public int id { get; set; }
 
-        [ForeignKey("course_id")]
+        [ForeignKey("courseid")]
         public int course_id { get; set; }
 
         [Column("name", TypeName = "Varchar(50)"), Required]
         public string name { get; set; }
 
         [Column("description", TypeName = "Varchar(150)"), AllowNull]
-        public string description { get; set; }
+        public string? description { get; set; }
         [Column("videos", TypeName = "Varchar(150)"), AllowNull]
-        public string videos { get; set; }
+        public string? videos { get; set; }
         [Column("documents", TypeName = "Varchar(150)"), AllowNull]
         public string? documents { get; set; }
         [Column("attach_file", TypeName = "Varchar(150)"), AllowNull]
-        public string attach_file { get; set; }
+        public string? attach_file { get; set; }
 
         [Column("status", TypeName = "Varchar(200)"), Required]
         public string status { set; get; }

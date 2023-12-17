@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WQTKRiwsczGN5u3amzNyWzqggz+ZfzfXt/6EDKaKh9p04smQLYzy0fbUPO1gFl2AokMeMXc7UOYYG+rF2j1+A==",
+  "dgSpecHash": "xtugjC+Q6xwjMtRYxS0a4O/ZrBPvWrzyg8yrhHlLe2fHO+8MpI5QyXB9fCqNkEDG7I06dtZU0EzrTPMWai3Yxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khanh\\Documents\\AD_ASM-main\\Tranning\\Tranning.csproj",
+  "projectFilePath": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\Tranning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khanh\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\khanh\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

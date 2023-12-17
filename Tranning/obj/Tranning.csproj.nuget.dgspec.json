@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khanh\\Documents\\AD_ASM-main\\Tranning\\Tranning.csproj": {}
+    "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\Tranning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khanh\\Documents\\AD_ASM-main\\Tranning\\Tranning.csproj": {
+    "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\Tranning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khanh\\Documents\\AD_ASM-main\\Tranning\\Tranning.csproj",
+        "projectUniqueName": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\Tranning.csproj",
         "projectName": "Tranning",
-        "projectPath": "C:\\Users\\khanh\\Documents\\AD_ASM-main\\Tranning\\Tranning.csproj",
+        "projectPath": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\Tranning.csproj",
         "packagesPath": "C:\\Users\\khanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khanh\\Documents\\AD_ASM-main\\Tranning\\obj\\",
+        "outputPath": "C:\\Users\\khanh\\Documents\\GitHub\\AD_ASM-main\\Tranning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,20 +11,20 @@ namespace Tranning.Models
 
     public class TraineeCourseDetail
     {
-        [Key]
-        public int id { get; set; }
         [Required(ErrorMessage = "Choose Course, please")]
         public int course_id { get; set; }
         [Required(ErrorMessage = "Choose Trainee, please")]
 
         public int trainee_id { get; set; }
-        public string? traineeName { get; set; }
-        public string? courseName { get; set; }
+        
 
         public DateTime? created_at { get; set; }
 
         public DateTime? updated_at { get; set; }
 
         public DateTime? deleted_at { get; set; }
+        public string? CourseName { get; set; }
+        public string? TraineeName { get; set; }
+
     }
 }

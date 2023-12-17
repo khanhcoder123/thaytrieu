@@ -34,7 +34,7 @@ namespace Tranning.Controllers
                     (topic, course) => new TopicDetail
                     {
                         course_id = topic.course_id,
-                        courseName = course.name, // Add this line to include the course name
+                       
                         id = topic.id,
                         name = topic.name,
                         description = topic.description,
@@ -306,8 +306,8 @@ namespace Tranning.Controllers
         public IActionResult Update(int id = 0)
         {
             var data = _dbContext.Topics.FirstOrDefault(m => m.id == id);
-            
-      
+
+
 
             if (data != null)
             {
@@ -340,16 +340,13 @@ namespace Tranning.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Update(TopicDetail topic, IFormFile file)
+        public async Task<IActionResult> Update(TopicDetail topic)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    var data = _dbContext.Topics.FirstOrDefault(m => m.id == topic.id);            
-
-
-
+                    var data = _dbContext.Topics.FirstOrDefault(m => m.id == topic.id);
                     if (data != null)
                     {
                         data.name = topic.name;
@@ -363,12 +360,12 @@ namespace Tranning.Controllers
                             data.attach_file = await UploadAttachFile(topic.file);
                         }
 
-                        if (topic.videos != null)
+                        if (topic.photo != null)
                         {
                             data.videos = await UploadVideo(topic.photo);
                         }
 
-                        if (topic.documents != null)
+                        if (topic.document_file != null)
                         {
                             data.documents = await UploadDocuments(topic.document_file);
                         }

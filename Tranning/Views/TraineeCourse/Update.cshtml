@@ -5,29 +5,26 @@
 @model Tranning.Models.TraineeCourseDetail
 
 @{
-    ViewData["Title"] = "Edit Assigning Trainee To Course";
+    ViewData["Title"] = "Assign New Trainee To Course";
     Layout = "~/Views/Shared/_TrainingStaffLayout.cshtml";
 }
 <div class="row vh-100">
     <div class="col-sm-12 col-md-12">
         <div class="card">
             <div class="card-header">
-                <h5> Edit Assigned Trainee To Course</h5>
+                <h5> Update Assign New Trainee To Course</h5>
             </div>
             <div class="card-body">
                 <form enctype="multipart/form-data" asp-action="Update">
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
+                            
                             <div class="form-group">
                                 <label asp-for="course_id">Course</label>
                                 <select asp-for="course_id" class="form-control" asp-items="@(new SelectList(ViewBag.Stores, "Value", "Text"))">
                                 </select>
                                 <span class="text-danger" asp-validation-for="course_id"></span>
                             </div>
-
-
-
-
                         </div>
                         <div class="col-sm-12 col-md-6">
                             <div class="form-group">
@@ -37,7 +34,7 @@
                                 <span class="text-danger" asp-validation-for="trainee_id"></span>
                             </div>
                         </div>
-
+                        
                         <div class="sm-12 col-md-6">
                             <button class="btn btn-primary my-3" type="submit"> Save </button>
                             <a class="btn btn-info ms-3 mb-0" href="@Url.Action("Index","TraineeCourse")">Back to lists</a>

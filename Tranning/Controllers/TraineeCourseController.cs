@@ -21,47 +21,24 @@ namespace Tranning.Controllers
             TraineeCourseModel traineecourseModel = new TraineeCourseModel();
             traineecourseModel.TraineeCourseDetailLists = new List<TraineeCourseDetail>();
 
-            var data = _dbContext.TraineeCourses
-                .Where(m => m.deleted_at == null)
-                .Join(
-                    _dbContext.Users,
-                    traineeCourse => traineeCourse.trainee_id,
-                    trainee => trainee.id,
-                    (traineeCourse, trainee) => new
-                    {
-                        TraineeCourse = traineeCourse,
-                        TraineeName = trainee.full_name
-                    })
-                .Join(
-                    _dbContext.Courses,
-                    result => result.TraineeCourse.course_id,
-                    course => course.id,
-                    (result, course) => new
-                    {
-                        result.TraineeCourse,
-                        result.TraineeName,
-                        CourseName = course.name
-                    })
-                .ToList();
-
-            foreach (var item in data)
-            {
-                traineecourseModel.TraineeCourseDetailLists.Add(new TraineeCourseDetail
+            var data = _dbContext.TraineeCourses.
+                Join(_dbContext.Courses, tr => tr.course_id, c => c.id, (tr, c) => new {tr, c})
+                .Join(_dbContext.Users, trr => trr.tr.trainee_id, u => u.id, (trr, u) => new {trr, u})
+                .Select(m => new TraineeCourseDetail
                 {
-                    id = item.TraineeCourse.id,
-                    course_id = item.TraineeCourse.course_id,
-                    trainee_id = item.TraineeCourse.trainee_id,
-                    traineeName = item.TraineeName,
-                    courseName = item.CourseName,
-                    created_at = item.TraineeCourse.created_at,
-                    updated_at = item.TraineeCourse.updated_at
-                });
-            }
-
+                    course_id = m.trr.tr.course_id,
+                    trainee_id = m.trr.tr.trainee_id,
+                    created_at = m.trr.tr.created_at,
+                    updated_at = m.trr.tr.updated_at,
+                    CourseName = m.trr.c.name,
+                    TraineeName = m.u.full_name,
+                    deleted_at = m.trr.tr.deleted_at
+                })
+                .Where(m => m.deleted_at == null);
+            traineecourseModel.TraineeCourseDetailLists = data.ToList();
             ViewData["CurrentFilter"] = SearchString;
             return View(traineecourseModel);
         }
-
 
         [HttpGet]
         public IActionResult Add()
@@ -92,9 +69,9 @@ namespace Tranning.Controllers
                     var traineecourseData = new TraineeCourse()
                     {
                         course_id = traineecourse.course_id,
-                        trainee_id = traineecourse.trainee_id,
+                        trainee_id = traineecourse.trainee_id,                        
                         created_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"))
-                    };
+                };
 
                     _dbContext.TraineeCourses.Add(traineecourseData);
                     _dbContext.SaveChanges(true);
@@ -102,13 +79,13 @@ namespace Tranning.Controllers
                 }
                 catch (Exception ex)
                 {
-
+                    
                     TempData["saveStatus"] = false;
                 }
                 return RedirectToAction(nameof(TraineeCourseController.Index), "TraineeCourse");
-            }
-
-
+            }                         
+                               
+       
             var courseList = _dbContext.Courses
               .Where(m => m.deleted_at == null)
               .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.name }).ToList();
@@ -119,7 +96,7 @@ namespace Tranning.Controllers
               .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.full_name }).ToList();
             ViewBag.Stores1 = traineeList;
 
-
+            
             Console.WriteLine(ModelState.IsValid);
             foreach (var key in ModelState.Keys)
             {
@@ -133,17 +110,18 @@ namespace Tranning.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delete(int id = 0)
+        public IActionResult Delete(int trainee_id = 0, int course_id = 0)
         {
             try
             {
-                var data = _dbContext.TraineeCourses.FirstOrDefault(m => m.id == id);
+                var data = _dbContext.TraineeCourses
+                    .Where(tc => tc.trainee_id == trainee_id && tc.course_id == course_id)
+                    .FirstOrDefault();
 
                 if (data != null)
                 {
-                    // Soft delete by updating the deleted_at field
-                    data.deleted_at = DateTime.Now;
-                    _dbContext.SaveChanges();
+                    data.deleted_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
+                    _dbContext.SaveChanges(true);
                     TempData["DeleteStatus"] = true;
                 }
                 else
@@ -151,77 +129,93 @@ namespace Tranning.Controllers
                     TempData["DeleteStatus"] = false;
                 }
             }
-            catch (Exception ex)
+            catch
             {
                 TempData["DeleteStatus"] = false;
-                // Log the exception if needed: _logger.LogError(ex, "An error occurred while deleting the topic.");
             }
 
-            return RedirectToAction(nameof(Index), new { SearchString = "" });
+            return RedirectToAction(nameof(TraineeCourseController.Index), "TraineeCourse");
         }
 
         [HttpGet]
-        public IActionResult Update(int id = 0)
+        public IActionResult Update(int trainee_id = 0, int course_id = 0)
         {
-            TraineeCourseDetail traineecourse = new TraineeCourseDetail();
-            var data = _dbContext.TraineeCourses.Where(m => m.id == traineecourse.id).FirstOrDefault();
-            if (data != null)
+            var existingData = _dbContext.TraineeCourses
+                .Where(tc => tc.trainee_id == trainee_id && tc.course_id == course_id)
+                .FirstOrDefault();
+
+            if (existingData == null)
             {
-                traineecourse.id = data.id;
-                traineecourse.trainee_id = data.trainee_id;
-                traineecourse.course_id = data.course_id;
-                
+                return NotFound();
             }
 
+            var traineeCourseDetail = new TraineeCourseDetail
+            {
+                course_id = existingData.course_id,
+                trainee_id = existingData.trainee_id,
+                // Include other properties as needed
+            };
+
             var courseList = _dbContext.Courses
-              .Where(m => m.deleted_at == null)
-              .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.name }).ToList();
+                .Where(m => m.deleted_at == null)
+                .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.name }).ToList();
             ViewBag.Stores = courseList;
 
             var traineeList = _dbContext.Users
-              .Where(m => m.deleted_at == null && m.role_id == 4)
-              .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.full_name }).ToList();
+                .Where(m => m.deleted_at == null && m.role_id == 4)
+                .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.full_name }).ToList();
             ViewBag.Stores1 = traineeList;
-            ViewBag.SelectedCourseId = data.course_id;
 
-            return View(traineecourse);
+            return View(traineeCourseDetail);
         }
 
         [HttpPost]
-        public IActionResult Update(TraineeCourseDetail traineecourse)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Update(TraineeCourseDetail updatedData)
         {
-            
-            try
+            if (ModelState.IsValid)
             {
-                var data = _dbContext.TraineeCourses.Where(m => m.id == traineecourse.id).FirstOrDefault();
-
-                if (data != null)
+                try
                 {
-                    Console.WriteLine(traineecourse.course_id.ToString());
+                    var existingData = _dbContext.TraineeCourses
+                        .Where(tc => tc.trainee_id == updatedData.trainee_id && tc.course_id == updatedData.course_id)
+                        .FirstOrDefault();
 
-                    Console.WriteLine(traineecourse.trainee_id.ToString());
-                    data.course_id = traineecourse.course_id;
-                    data.trainee_id = traineecourse.trainee_id;
-                    data.updated_at = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
-                    _dbContext.SaveChanges(true);
-                    TempData["UpdateStatus"] = true;
+                    if (existingData != null)
+                    {
+                        existingData.course_id = updatedData.course_id;
+                        existingData.trainee_id = updatedData.trainee_id;
+                        // Include other properties as needed
 
+                        _dbContext.SaveChanges(true);
+
+                        TempData["UpdateStatus"] = true;
+                    }
+                    else
+                    {
+                        TempData["UpdateStatus"] = false;
+                    }
                 }
-                else
+                catch (Exception ex)
                 {
-                    Console.WriteLine(traineecourse.id.ToString());
                     TempData["UpdateStatus"] = false;
                 }
-            }
-            catch (Exception ex)
-            {
 
-                Console.WriteLine(traineecourse.id.ToString());
-                TempData["UpdateStatus"] = false;
-                return Ok(new { Status = "Error", Message = ex.Message });
+                return RedirectToAction(nameof(TraineeCourseController.Index), "TraineeCourse");
             }
-            return RedirectToAction(nameof(TraineeCourseController.Index), "TraineeCourse");
 
+            var courseList = _dbContext.Courses
+                .Where(m => m.deleted_at == null)
+                .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.name }).ToList();
+            ViewBag.Stores = courseList;
+
+            var traineeList = _dbContext.Users
+                .Where(m => m.deleted_at == null && m.role_id == 4)
+                .Select(m => new SelectListItem { Value = m.id.ToString(), Text = m.full_name }).ToList();
+            ViewBag.Stores1 = traineeList;
+
+            return View(updatedData);
         }
+
     }
 }

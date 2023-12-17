@@ -4,8 +4,6 @@ namespace Tranning.DataDBContext
 {
     public class TrainerTopic
     {
-      
-        public int id { get; set; }
         public int topic_id { get; set; }
         public int trainer_id { get; set; }
 

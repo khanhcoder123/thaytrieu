@@ -15,7 +15,6 @@ namespace Tranning.Models
         public int id { get; set; }
         [Required(ErrorMessage = "Enter role, please")]
         public int role_id { get; set; }
-        public string? roleName { get; set; }
 
         public string extra_code { get; set; }
         [Required(ErrorMessage = "Enter username, please")]
